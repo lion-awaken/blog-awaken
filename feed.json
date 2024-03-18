@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Awaken",
+    "description": "",
+    "home_page_url": "https://lion-awaken.github.io/blog-awaken",
+    "feed_url": "https://lion-awaken.github.io/blog-awaken/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "RJ"
+    },
+    "items": [
+        {
+            "id": "https://lion-awaken.github.io/blog-awaken/hello-word.html",
+            "url": "https://lion-awaken.github.io/blog-awaken/hello-word.html",
+            "title": "hello word",
+            "summary": "测试第一篇文章。",
+            "content_html": "<p><span style=\"color: #e03e2d;\">测试第一篇文章。</span></p>",
+            "author": {
+                "name": "RJ"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-18T16:46:23+08:00",
+            "date_modified": "2024-03-18T16:46:23+08:00"
+        }
+    ]
+}

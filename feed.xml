@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Awaken</title>
+    <link href="https://lion-awaken.github.io/blog-awaken/feed.xml" rel="self" />
+    <link href="https://lion-awaken.github.io/blog-awaken" />
+    <updated>2024-03-18T16:46:23+08:00</updated>
+    <author>
+        <name>RJ</name>
+    </author>
+    <id>https://lion-awaken.github.io/blog-awaken</id>
+
+    <entry>
+        <title>hello word</title>
+        <author>
+            <name>RJ</name>
+        </author>
+        <link href="https://lion-awaken.github.io/blog-awaken/hello-word.html"/>
+        <id>https://lion-awaken.github.io/blog-awaken/hello-word.html</id>
+
+        <updated>2024-03-18T16:46:23+08:00</updated>
+            <summary>
+                <![CDATA[
+                    测试第一篇文章。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="color: #e03e2d;">测试第一篇文章。</span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
